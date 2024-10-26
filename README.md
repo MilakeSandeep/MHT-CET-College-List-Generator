@@ -1,2 +1,4 @@
 # MHT-CET-College-List-Generator
-Automatic college list provide
+Automatic college list generator
+<br>
+helps to predict colleges at students percentile
